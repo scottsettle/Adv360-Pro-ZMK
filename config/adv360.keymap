@@ -80,11 +80,11 @@
 
         layer_Colemak {
             bindings = <
- &trans  &trans     &trans          &trans           &trans  &trans            &trans                                                  &trans  &trans        &trans          &trans      &trans         &trans  &trans
- &trans   &kp Q      &kp W           &kp F            &kp P   &kp G             &none                                                  &trans   &kp J         &kp L           &kp U       &kp Y  &kp SEMICOLON  &trans
- &trans   &kp A      &kp R           &kp S            &kp T   &kp D             &none   &none   &none                  &trans  &trans  &trans   &kp H         &kp N           &kp E       &kp I          &kp O  &trans
- &trans   &kp Z      &kp X           &kp C            &kp V   &kp B                             &none                  &trans                   &kp K         &kp M    &kp KP_COMMA  &kp PERIOD          &none  &trans
- &trans   &kp `  &kp LCTRL  &kp LEFT_ARROW  &kp RIGHT_ARROW                     &none   &none   &none                  &trans  &trans  &trans          &kp UP_ARROW  &kp DOWN_ARROW       &none          &none  &trans
+ &trans  &trans     &trans          &trans           &trans  &trans                   &trans                                                                  &trans  &trans        &trans          &trans      &trans         &trans  &trans
+ &trans   &kp Q      &kp W           &kp F            &kp P   &kp G                    &none                                                                  &trans   &kp J         &kp L           &kp U       &kp Y  &kp SEMICOLON  &trans
+ &trans   &kp A      &kp R           &kp S            &kp T   &kp D                    &none  &kp LEFT_CONTROL  &kp LEFT_ALT                  &trans  &trans  &trans   &kp H         &kp N           &kp E       &kp I          &kp O  &trans
+ &trans   &kp Z      &kp X           &kp C            &kp V   &kp B                                                 &kp HOME                  &trans                   &kp K         &kp M    &kp KP_COMMA  &kp PERIOD          &none  &trans
+ &trans   &kp `  &kp LCTRL  &kp LEFT_ARROW  &kp RIGHT_ARROW                    &kp BACKSPACE        &kp DELETE       &kp END                  &trans  &trans  &trans          &kp UP_ARROW  &kp DOWN_ARROW       &none          &none  &trans
             >;
         };
 
