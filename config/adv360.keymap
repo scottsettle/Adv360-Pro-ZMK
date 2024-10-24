@@ -78,5 +78,15 @@
             >;
         };
 
+        layer_Colemak {
+            bindings = <
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans   &kp Q   &kp W   &kp F   &kp P   &kp G             &none                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans   &kp A   &kp R   &kp S   &kp T   &kp D             &none  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans   &kp Z   &kp X   &kp C   &kp V   &kp B                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans   &kp `  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+            >;
+        };
+
     };
 };
