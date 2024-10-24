@@ -84,7 +84,7 @@
         &kp TAB         &kp Q         &kp W           &kp F            &kp P         &kp G                    &none                                                                                       &trans         &kp J         &kp L           &kp U         &kp Y  &kp SEMICOLON          &kp PIPE
      &kp ESCAPE         &kp A         &kp R           &kp S            &kp T         &kp D                    &none  &kp LEFT_CONTROL  &kp LEFT_ALT                       &kp RALT  &kp RIGHT_CONTROL     &trans         &kp H         &kp N           &kp E         &kp I          &kp O  &kp SINGLE_QUOTE
  &kp LEFT_SHIFT         &kp Z         &kp X           &kp C            &kp V         &kp B                                                 &kp HOME                    &kp PAGE_UP                                       &kp K         &kp M    &kp KP_COMMA    &kp PERIOD       &kp FSLH   &kp RIGHT_SHIFT
-          &none         &kp `     &kp LCTRL  &kp LEFT_ARROW  &kp RIGHT_ARROW                          &kp BACKSPACE        &kp DELETE       &kp END                  &kp PAGE_DOWN          &kp ENTER  &kp SPACE                &kp UP_ARROW  &kp DOWN_ARROW         &none          &none            &trans
+          &none         &kp `     &kp LCTRL  &kp LEFT_ARROW  &kp RIGHT_ARROW                          &kp BACKSPACE        &kp DELETE       &kp END                  &kp PAGE_DOWN          &kp ENTER  &kp SPACE                &kp UP_ARROW  &kp DOWN_ARROW      &kp LBKT       &kp RBKT            &trans
             >;
         };
 
